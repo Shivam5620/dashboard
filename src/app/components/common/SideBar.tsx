@@ -7,7 +7,6 @@ import {
   ChevronUp,
   ChevronRightCircle,
 } from 'lucide-react';
-import { redirect } from 'next/navigation';
 import Link from 'next/link';
 import {
   Sidebar,
